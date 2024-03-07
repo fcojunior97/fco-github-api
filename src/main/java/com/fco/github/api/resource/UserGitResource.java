@@ -1,9 +1,8 @@
 package com.fco.github.api.resource;
 
-import com.fco.github.domain.UserRepository;
-import com.fco.github.domain.User;
+import com.fco.github.domain.model.UserRepository;
+import com.fco.github.domain.model.User;
 import com.fco.github.domain.service.UserGitService;
-import com.fco.github.infra.clients.GitHubResourceClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

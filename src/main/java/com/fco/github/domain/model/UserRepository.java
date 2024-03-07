@@ -1,4 +1,4 @@
-package com.fco.github.domain;
+package com.fco.github.domain.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

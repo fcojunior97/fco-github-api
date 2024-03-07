@@ -1,7 +1,7 @@
 package com.fco.github.infra.clients;
 
-import com.fco.github.domain.UserRepository;
-import com.fco.github.domain.User;
+import com.fco.github.domain.model.UserRepository;
+import com.fco.github.domain.model.User;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
